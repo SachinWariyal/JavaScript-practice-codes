@@ -1,6 +1,7 @@
 // let get_randomNumber =(min , max)=>{
 //     return Math.random() * (max-min) + min
 // };
+//yes
 
 // function getRandomInt(min, max) {
 //     min = Math.ceil(min);
